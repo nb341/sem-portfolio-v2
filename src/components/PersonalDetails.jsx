@@ -35,7 +35,7 @@ export default function PersonalDetails(){
                         <Link alignSelf={'start'} fontSize={'18px' } padding={0} href='https://github.com/nb341' isExternal>
                             <Flex><Text as={'span'} color={'pink.600'}><AiFillGithub style={{paddingRight: "2px", fontSize: "28px"}} /></Text> GitHub</Flex>
                         </Link>
-                        <Link alignSelf={'start'} fontSize={'18px' } padding={0} href='https://github.com/nb341' isExternal>
+                        <Link alignSelf={'start'} fontSize={'18px' } padding={0} href='https://docs.google.com/document/d/1uexyPcWfcsP1lhovPSpJBaynIeGCrMGc/edit?usp=sharing&ouid=111740917890894268513&rtpof=true&sd=true' isExternal>
                             <Flex><Text as={'span'} color={'pink.600'}><AiFillFilePdf style={{paddingRight: "2px", fontSize: "28px"}} /></Text> CV</Flex>
                         </Link>
                     </VStack>
